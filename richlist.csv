@@ -1,0 +1,476 @@
+finalWorth,category,personName,age,country,city,source,industries,gender,lastName,firstName
+211000,"Fashion & Retail","Bernard Arnault & family",74,France,Paris,LVMH,"Fashion & Retail",M,Arnault,Bernard
+180000,Automotive,"Elon Musk",51,"United States",Austin,"Tesla, SpaceX",Automotive,M,Musk,Elon
+114000,Technology,"Jeff Bezos",59,"United States",Medina,Amazon,Technology,M,Bezos,Jeff
+107000,Technology,"Larry Ellison",78,"United States",Lanai,Oracle,Technology,M,Ellison,Larry
+106000,"Finance & Investments","Warren Buffett",92,"United States",Omaha,"Berkshire Hathaway","Finance & Investments",M,Buffett,Warren
+104000,Technology,"Bill Gates",67,"United States",Medina,Microsoft,Technology,M,Gates,Bill
+94500,"Media & Entertainment","Michael Bloomberg",81,"United States","New York","Bloomberg LP","Media & Entertainment",M,Bloomberg,Michael
+93000,Telecom,"Carlos Slim Helu & family",83,Mexico,"Mexico City",Telecom,Telecom,M,"Slim Helu",Carlos
+83400,Diversified,"Mukesh Ambani",65,India,Mumbai,Diversified,Diversified,M,Ambani,Mukesh
+80700,Technology,"Steve Ballmer",67,"United States","Hunts Point",Microsoft,Technology,M,Ballmer,Steve
+80500,"Fashion & Retail","Francoise Bettencourt Meyers & family",69,France,Paris,L'OrÃ©al,"Fashion & Retail",F,"Bettencourt Meyers",Francoise
+79200,Technology,"Larry Page",50,"United States","Palo Alto",Google,Technology,M,Page,Larry
+77300,"Fashion & Retail","Amancio Ortega",87,Spain,"La Coruna",Zara,"Fashion & Retail",M,Ortega,Amancio
+76000,Technology,"Sergey Brin",49,"United States","Los Altos",Google,Technology,M,Brin,Sergey
+68000,"Food & Beverage","Zhong Shanshan",68,China,Hangzhou,"Beverages, pharmaceuticals","Food & Beverage",M,Zhong,Shanshan
+64400,Technology,"Mark Zuckerberg",38,"United States","Palo Alto",Facebook,Technology,M,Zuckerberg,Mark
+59000,Diversified,"Charles Koch & family",87,"United States",Wichita,"Koch Industries",Diversified,M,Koch,Charles
+59000,Diversified,"Julia Koch & family",60,"United States","New York","Koch Industries",Diversified,F,Koch,Julia
+58800,"Fashion & Retail","Jim Walton",74,"United States",Bentonville,Walmart,"Fashion & Retail",M,Walton,Jim
+57600,"Fashion & Retail","Rob Walton & family",78,"United States",Bentonville,Walmart,"Fashion & Retail",M,Walton,Rob
+56700,"Fashion & Retail","Alice Walton",73,"United States","Fort Worth",Walmart,"Fashion & Retail",F,Walton,Alice
+54400,"Media & Entertainment","David Thomson & family",65,Canada,Toronto,Media,"Media & Entertainment",M,Thomson,David
+50100,Technology,"Michael Dell",58,"United States",Austin,"Dell Technologies",Technology,M,Dell,Michael
+47200,Diversified,"Gautam Adani",60,India,Ahmedabad,"Infrastructure, commodities",Diversified,M,Adani,Gautam
+45100,"Fashion & Retail","Phil Knight & family",85,"United States",Hillsboro,Nike,"Fashion & Retail",M,Knight,Phil
+45000,Technology,"Zhang Yiming",39,China,Beijing,TikTok,Technology,M,Zhang,Yiming
+42900,"Fashion & Retail","Dieter Schwarz",83,Germany,Neckarsulm,Retail,"Fashion & Retail",M,Schwarz,Dieter
+40100,"Fashion & Retail","FranÃ§ois Pinault & family",86,France,Paris,"Luxury goods","Fashion & Retail",M,Pinault,FranÃ§ois
+39100,Logistics,"Klaus-Michael Kuehne",85,Switzerland,Schindellegi,Shipping,Logistics,M,Kuehne,Klaus-Michael
+38900,"Food & Beverage","Giovanni Ferrero",58,Belgium,Brussels,"Nutella, chocolates","Food & Beverage",M,Ferrero,Giovanni
+38300,"Food & Beverage","Jacqueline Mars",83,"United States","The Plains","Candy, pet food","Food & Beverage",F,Mars,Jacqueline
+38300,"Food & Beverage","John Mars",87,"United States",Jackson,"Candy, pet food","Food & Beverage",M,Mars,John
+35300,Technology,"Ma Huateng",51,China,Shenzhen,"Internet media",Technology,M,Ma,Huateng
+35000,"Gambling & Casinos","Miriam Adelson & family",77,"United States","Las Vegas",Casinos,"Gambling & Casinos",F,Adelson,Miriam
+35000,"Finance & Investments","Ken Griffin",54,"United States",Miami,"Hedge funds","Finance & Investments",M,Griffin,Ken
+34700,"Food & Beverage","Mark Mateschitz",30,Austria,Salzburg,"Red Bull","Food & Beverage",M,Mateschitz,Mark
+33400,Automotive,"Robin Zeng",54,China,Ningde,Batteries,Automotive,M,Zeng,Robin
+32600,"Fashion & Retail","Tadashi Yanai & family",74,Japan,Tokyo,"Fashion retail","Fashion & Retail",M,Yanai,Tadashi
+32100,Diversified,"Len Blavatnik",65,"United Kingdom",London,"Music, chemicals",Diversified,M,Blavatnik,Len
+31600,"Fashion & Retail","Alain Wertheimer",74,"United States","New York",Chanel,"Fashion & Retail",M,Wertheimer,Alain
+31600,"Fashion & Retail","Gerard Wertheimer",72,"United States","New York",Chanel,"Fashion & Retail",M,Wertheimer,Gerard
+31200,Logistics,"Gianluigi Aponte",82,Switzerland,Geneva,Shipping,Logistics,M,Aponte,Gianluigi
+31200,Logistics,"Rafaela Aponte-Diamant",78,Switzerland,Geneva,Shipping,Logistics,F,Aponte-Diamant,Rafaela
+30200,Technology,"Colin Zheng Huang",43,China,Shanghai,E-commerce,Technology,M,Huang,"Colin Zheng"
+29700,Manufacturing,"Reinhold Wuerth & family",87,Germany,Kuenzelsau,Fasteners,Manufacturing,M,Wuerth,Reinhold
+28500,"Finance & Investments","Jeff Yass",64,"United States",Haverford,"Trading, investments","Finance & Investments",M,Yass,Jeff
+28100,"Finance & Investments","Jim Simons",84,"United States","East Setauket","Hedge funds","Finance & Investments",M,Simons,Jim
+27800,"Finance & Investments","Stephen Schwarzman",76,"United States","New York",Investments,"Finance & Investments",M,Schwarzman,Stephen
+27400,Automotive,"Susanne Klatten",60,Germany,"Bad Homburg","BMW, pharmaceuticals",Automotive,F,Klatten,Susanne
+27000,"Metals & Mining","Gina Rinehart",69,Australia,Perth,Mining,"Metals & Mining",F,Rinehart,Gina
+26700,Technology,"William Ding",51,China,Hangzhou,"Online games",Technology,M,Ding,William
+26600,"Metals & Mining","GermÃ¡n Larrea Mota Velasco & family",69,Mexico,"Mexico City",Mining,"Metals & Mining",M,"Larrea Mota Velasco",GermÃ¡n
+25600,Technology,"Shiv Nadar",77,India,Delhi,"software services",Technology,M,Nadar,Shiv
+25500,Energy,"Low Tuck Kwong",74,Indonesia,Jakarta,Coal,Energy,M,"Low Tuck",Kwong
+25300,"Finance & Investments","Thomas Peterffy",78,"United States","Palm Beach","Discount brokerage","Finance & Investments",M,Peterffy,Thomas
+25200,"Metals & Mining","Andrey Melnichenko & family",51,"United Arab Emirates","Ras Al Khaimah","Fertilizers, coal","Metals & Mining",M,Melnichenko,Andrey
+24600,Automotive,"Stefan Quandt",56,Germany,Frankfurt,BMW,Automotive,M,Quandt,Stefan
+24400,Technology,"MacKenzie Scott",52,"United States",Seattle,Amazon,Technology,F,Scott,MacKenzie
+24200,"Finance & Investments","R. Budi Hartono",82,Indonesia,Kudus,"Banking, tobacco","Finance & Investments",M,Hartono,"R. Budi"
+23700,"Metals & Mining","Vladimir Potanin",62,Russia,Moscow,Metals,"Metals & Mining",M,Potanin,Vladimir
+23500,Technology,"Jack Ma",58,China,Hangzhou,E-commerce,Technology,M,Ma,Jack
+23400,Manufacturing,"He Xiangjian & family",80,China,Foshan,"Home appliances",Manufacturing,M,He,Xiangjian
+23100,"Metals & Mining","Iris Fontbona & family",80,Chile,Santiago,Mining,"Metals & Mining",F,Fontbona,Iris
+23100,Manufacturing,"Michael Hartono",83,Indonesia,Kudus,"Banking, tobacco",Manufacturing,M,Hartono,Michael
+22900,Manufacturing,"James Ratcliffe",70,"United Kingdom",London,Chemicals,Manufacturing,M,Ratcliffe,James
+22600,Healthcare,"Cyrus Poonawalla",81,India,Pune,Vaccines,Healthcare,M,Poonawalla,Cyrus
+22400,Telecom,"Masayoshi Son",65,Japan,Tokyo,"Internet, telecom",Telecom,M,Son,Masayoshi
+22100,"Metals & Mining","Vladimir Lisin",66,Russia,Moscow,"Steel, transport","Metals & Mining",M,Lisin,Vladimir
+22000,"Food & Beverage","Emmanuel Besnier",52,France,Laval,Cheese,"Food & Beverage",M,Besnier,Emmanuel
+21600,"Finance & Investments","Abigail Johnson",61,"United States",Milton,Fidelity,"Finance & Investments",F,Johnson,Abigail
+21600,Energy,"Leonid Mikhelson & family",67,Russia,Moscow,"Gas, chemicals",Energy,M,Mikhelson,Leonid
+21200,"Fashion & Retail","Lukas Walton",36,"United States",Chicago,Walmart,"Fashion & Retail",M,Walton,Lukas
+21200,Service,"Wang Wei",52,China,Shenzhen,"Package delivery",Service,M,Wang,Wei
+21100,Technology,"Jensen Huang",60,"United States","Los Altos",Semiconductors,Technology,M,Huang,Jensen
+21000,"Fashion & Retail","Leonard Lauder",90,"United States","New York","Estee Lauder","Fashion & Retail",M,Lauder,Leonard
+21000,Manufacturing,"Takemitsu Takizaki",77,Japan,Osaka,Sensors,Manufacturing,M,Takizaki,Takemitsu
+20900,"Metals & Mining","Alexey Mordashov & family",57,Russia,Moscow,"Steel, investments","Metals & Mining",M,Mordashov,Alexey
+20500,Energy,"Vagit Alekperov",72,Russia,Moscow,Oil,Energy,M,Alekperov,Vagit
+20200,Healthcare,"Thomas Frist, Jr. & family",84,"United States",Nashville,Hospitals,Healthcare,M,Frist,Thomas
+19600,"Metals & Mining","Andrew Forrest",61,Australia,Perth,Mining,"Metals & Mining",M,Forrest,Andrew
+19100,"Finance & Investments","Ray Dalio",73,"United States",Greenwich,"Hedge funds","Finance & Investments",M,Dalio,Ray
+19000,Automotive,"Eric Li",59,China,Hangzhou,Automobiles,Automotive,M,Li,Eric
+19000,"Metals & Mining","Wang Wenyin",55,China,Shenzhen,"Mining, copper products","Metals & Mining",M,Wang,Wenyin
+18900,"Food & Beverage","Qin Yinglin",57,China,Nanyang,"Pig breeding","Food & Beverage",M,Qin,Yinglin
+18700,Automotive,"Wang Chuanfu",57,China,Shenzhen,"Batteries, automobiles",Automotive,M,Wang,Chuanfu
+18500,Energy,"Harold Hamm & family",77,"United States","Oklahoma City","Oil & gas",Energy,M,Hamm,Harold
+18500,"Finance & Investments","David Tepper",65,"United States","Palm Beach","Hedge funds","Finance & Investments",M,Tepper,David
+18500,Energy,"Gennady Timchenko",70,Russia,Moscow,"Oil, gas",Energy,M,Timchenko,Gennady
+18000,"Finance & Investments","Daniel Gilbert",61,"United States",Franklin,"Quicken Loans","Finance & Investments",M,Gilbert,Daniel
+17700,"Metals & Mining","Lakshmi Mittal",72,"United Kingdom",London,Steel,"Metals & Mining",M,Mittal,Lakshmi
+17500,"Finance & Investments","Steve Cohen",66,"United States",Greenwich,"Hedge funds","Finance & Investments",M,Cohen,Steve
+17500,"Finance & Investments","Carl Icahn",87,"United States","Indian Creek",Investments,"Finance & Investments",M,Icahn,Carl
+17500,"Metals & Mining","Savitri Jindal & family",73,India,Hisar,Steel,"Metals & Mining",F,Jindal,Savitri
+17400,"Real Estate","Donald Bren",90,"United States","Newport Beach","Real estate","Real Estate",M,Bren,Donald
+17400,"Fashion & Retail","John Menard, Jr.",83,"United States","Eau Claire","Home improvement stores","Fashion & Retail",M,Menard,John
+17100,"Media & Entertainment","Rupert Murdoch & family",92,"United States","New York","Newspapers, TV network","Media & Entertainment",M,Murdoch,Rupert
+16700,"Finance & Investments","Vicky Safra & family",70,Switzerland,Crans-Montana,Banking,"Finance & Investments",F,Safra,Vicky
+16500,"Fashion & Retail","Theo Albrecht, Jr. & family",72,Germany,"Mulheim an der Ruhr","Aldi, Trader Joe's","Fashion & Retail",M,Albrecht,Theo
+16500,"Finance & Investments","Renata Kellnerova & family",55,"Czech Republic",Prague,"Finance, telecommunications","Finance & Investments",F,Kellnerova,Renata
+16300,Healthcare,"Li Xiting",72,China,Shenzhen,"medical devices",Healthcare,M,Li,Xiting
+16200,"Fashion & Retail","Stefan Persson",75,Sweden,Stockholm,H&M,"Fashion & Retail",M,Persson,Stefan
+16200,Technology,"Eric Schmidt",67,"United States",Atherton,Google,Technology,M,Schmidt,Eric
+16000,"Finance & Investments","Michael Platt",55,Switzerland,Geneva,"Hedge funds","Finance & Investments",M,Platt,Michael
+15900,"Food & Beverage","Pang Kang",67,China,Foshan,"Soy sauce","Food & Beverage",M,Pang,Kang
+15800,"Food & Beverage","Jorge Paulo Lemann & family",83,Switzerland,Zurich,Beer,"Food & Beverage",M,Lemann,"Jorge Paulo"
+15600,Healthcare,"Dilip Shanghvi",67,India,Mumbai,Pharmaceuticals,Healthcare,M,Shanghvi,Dilip
+15500,Technology,"Robert Pera",45,"United States","San Jose","Wireless networking",Technology,M,Pera,Robert
+15300,"Fashion & Retail","Radhakishan Damani",68,India,Mumbai,"Retail, investments","Fashion & Retail",M,Damani,Radhakishan
+15200,Automotive,"Huang Shilin",56,China,Ningde,Batteries,Automotive,M,Huang,Shilin
+14900,Diversified,"Dhanin Chearavanont",83,Thailand,Bangkok,Diversified,Diversified,M,Chearavanont,Dhanin
+14900,"Fashion & Retail","David Green & family",81,"United States","Oklahoma City",Retail,"Fashion & Retail",M,Green,David
+14800,"Food & Beverage","Charoen Sirivadhanabhakdi",78,Thailand,Bangkok,"Alcohol, real estate","Food & Beverage",M,Sirivadhanabhakdi,Charoen
+14700,"Food & Beverage","Charlene de Carvalho-Heineken & family",68,"United Kingdom",London,Heineken,"Food & Beverage",F,"de Carvalho-Heineken",Charlene
+14600,Healthcare,"Xu Hang",60,China,Shenzhen,"Medical devices",Healthcare,M,Xu,Hang
+14500,Automotive,"Wei Jianjun & family",59,China,Baoding,Automobiles,Automotive,M,Wei,Jianjun
+14300,Manufacturing,"Goh Cheng Liang",95,Singapore,Singapore,Paints,Manufacturing,M,Goh,"Cheng Liang"
+14200,Diversified,"Kumar Birla",55,India,Mumbai,Commodities,Diversified,M,Birla,Kumar
+14200,Manufacturing,"Aliko Dangote",65,Nigeria,Lagos,"Cement, sugar",Manufacturing,M,Dangote,Aliko
+14000,Diversified,"Idan Ofer",67,"United Kingdom",London,Shipping,Diversified,M,Ofer,Idan
+13900,Healthcare,"Chen Bang",57,China,Changsha,Hospitals,Healthcare,M,Chen,Bang
+13700,Logistics,"John Fredriksen",78,"United Kingdom",London,Shipping,Logistics,M,Fredriksen,John
+13700,"Construction & Engineering","Diane Hendricks",76,"United States",Afton,"Building supplies","Construction & Engineering",F,Hendricks,Diane
+13700,Technology,"Jan Koum",47,"United States",Atherton,WhatsApp,Technology,M,Koum,Jan
+13300,Sports,"Jerry Jones",80,"United States",Dallas,"Dallas Cowboys",Sports,M,Jones,Jerry
+13300,Energy,"George Kaiser",80,"United States",Tulsa,"Oil & gas, banking",Energy,M,Kaiser,George
+13200,Automotive,"Lu Xiangyang",60,China,Guangzhou,"Automobiles, batteries",Automotive,M,Lu,Xiangyang
+13100,"Real Estate","Harry Triguboff",90,Australia,Sydney,"Real estate","Real Estate",M,Triguboff,Harry
+12900,"Finance & Investments","Uday Kotak",64,India,Mumbai,Banking,"Finance & Investments",M,Kotak,Uday
+12900,Sports,"Stanley Kroenke",75,"United States",Electra,"Sports, real estate",Sports,M,Kroenke,Stanley
+12600,Energy,"Mikhail Fridman",58,"United Kingdom",London,"Oil, banking, telecom",Energy,M,Fridman,Mikhail
+12300,Energy,"Sarath Ratanavadi",57,Thailand,Bangkok,Energy,Energy,M,Ratanavadi,Sarath
+12200,"Metals & Mining","Dang Yanbao",50,China,Yinchuan,Coal,"Metals & Mining",M,Dang,Yanbao
+12200,Healthcare,"Jiang Rensheng & family",69,China,Chongqing,Vaccines,Healthcare,M,Jiang,Rensheng
+12100,Automotive,"Shahid Khan",72,"United States",Naples,"Auto parts",Automotive,M,Khan,Shahid
+12000,Technology,"Laurene Powell Jobs & family",59,"United States","Palo Alto","Apple, Disney",Technology,F,"Powell Jobs",Laurene
+11600,"Real Estate","Stephen Ross",82,"United States","New York","Real estate","Real Estate",M,Ross,Stephen
+11500,Technology,"Pavel Durov",38,"United Arab Emirates",Dubai,"Messaging app",Technology,M,Durov,Pavel
+11500,Healthcare,"Andreas Struengmann & family",73,Germany,Tegernsee,Pharmaceuticals,Healthcare,M,Struengmann,Andreas
+11500,Healthcare,"Thomas Struengmann & family",73,Germany,Tegernsee,Pharmaceuticals,Healthcare,M,Struengmann,Thomas
+11400,"Food & Beverage","Liu Hanyuan",59,China,Chengdu,Agribusiness,"Food & Beverage",M,Liu,Hanyuan
+11400,"Fashion & Retail","Michael Rubin",50,"United States","Bryn Mawr","Online retail","Fashion & Retail",M,Rubin,Michael
+11300,"Finance & Investments","Israel Englander",74,"United States","New York","Hedge funds","Finance & Investments",M,Englander,Israel
+11300,Manufacturing,"Viatcheslav Kantor",69,Israel,Herzliya,"Fertilizer, real estate",Manufacturing,M,Kantor,Viatcheslav
+11300,Manufacturing,"Anthony Pratt",62,Australia,Melbourne,Manufacturing,Manufacturing,M,Pratt,Anthony
+11300,"Finance & Investments","Mikhail Prokhorov",57,Switzerland,Frauenfeld,Investments,"Finance & Investments",M,Prokhorov,Mikhail
+11100,"Fashion & Retail","Giorgio Armani",88,Italy,Milan,"Luxury goods","Fashion & Retail",M,Armani,Giorgio
+11100,"Fashion & Retail","Johann Rupert & family",72,"South Africa","Cape Town","Luxury goods","Fashion & Retail",M,Rupert,Johann
+11000,Technology,"Zhang Zhidong",51,China,Shenzhen,"Internet media",Technology,M,Zhang,Zhidong
+10900,"Finance & Investments","Philip Anschutz",83,"United States",Denver,"Energy, sports, entertainment","Finance & Investments",M,Anschutz,Philip
+10900,"Fashion & Retail","Judy Love & family",85,"United States","Oklahoma City","Gas stations","Fashion & Retail",F,Love,Judy
+10900,"Fashion & Retail","Ricardo Salinas Pliego & family",67,Mexico,"Mexico City","Retail, media","Fashion & Retail",M,"Salinas Pliego",Ricardo
+10700,"Media & Entertainment","Donald Newhouse",93,"United States","New York",Media,"Media & Entertainment",M,Newhouse,Donald
+10600,Sports,"Robert Kraft",81,"United States",Brookline,"Manufacturing, New England Patriots",Sports,M,Kraft,Robert
+10600,"Food & Beverage","Marcel Herrmann Telles",73,Brazil,"Sao Paulo",Beer,"Food & Beverage",M,Telles,"Marcel Herrmann"
+10500,"Finance & Investments","Suleiman Kerimov & family",57,Russia,Moscow,Gold,"Finance & Investments",M,"Kerimov & family",Suleiman
+10500,"Fashion & Retail","Sky Xu",39,China,Guangzhou,E-commerce,"Fashion & Retail",M,Xu,Sky
+10500,"Finance & Investments","Changpeng Zhao",45,"United Arab Emirates",Dubai,"Cryptocurrency exchange","Finance & Investments",M,Zhao,Changpeng
+10300,"Finance & Investments","Andrew Beal",70,"United States",Dallas,"Banks, real estate","Finance & Investments",M,Beal,Andrew
+10200,Technology,"Mike Cannon-Brookes",43,Australia,Sydney,Software,Technology,M,Cannon-Brookes,Mike
+10200,Healthcare,"Carl Cook",60,"United States",Bloomington,"Medical devices",Healthcare,M,Cook,Carl
+10200,Technology,"David Duffield",82,"United States","Incline Village","Business software",Technology,M,Duffield,David
+10200,Energy,"Jeffery Hildebrand",64,"United States",Houston,Oil,Energy,M,Hildebrand,Jeffery
+10200,Manufacturing,"Viktor Rashnikov",74,Russia,Magnitogorsk,Steel,Manufacturing,M,Rashnikov,Viktor
+10200,Technology,"Eduardo Saverin",41,Singapore,Singapore,Facebook,Technology,M,Saverin,Eduardo
+10200,Automotive,"Georg Schaeffler",58,Germany,Herzogenaurach,"Auto parts",Automotive,M,Schaeffler,Georg
+10200,"Fashion & Retail","Christy Walton",74,"United States",Jackson,Walmart,"Fashion & Retail",F,Walton,Christy
+10100,Technology,"Scott Farquhar",43,Australia,Sydney,Software,Technology,M,Farquhar,Scott
+10100,Diversified,"Quek Leng Chan",81,Malaysia,"Kuala Lumpur","Banking, property",Diversified,M,Quek,"Leng Chan"
+10100,"Real Estate","Wu Yajun",59,China,Beijing,"Real estate","Real Estate",F,Wu,Yajun
+10000,Energy,"Autry Stephens",85,"United States",Midland,Oil,Energy,M,Stephens,Autry
+9900,Service,"Liu Yongxing",74,China,Shanghai,Diversified,Service,M,Liu,Yongxing
+9800,Diversified,"Vinod Adani",74,"United Arab Emirates",Dubai,"Infrastructure, commodities",Diversified,M,Adani,Vinod
+9800,"Fashion & Retail","Nicolas Puech",80,Switzerland,Martigny,Hermes,"Fashion & Retail",M,Puech,Nicolas
+9800,Logistics,"Jacques SaadÃ©, Jr.",51,France,Marseille,Shipping,Logistics,M,SaadÃ©,Jacques
+9800,Logistics,"Rodolphe SaadÃ©",53,France,Marseille,Shipping,Logistics,M,SaadÃ©,Rodolphe
+9800,Logistics,"Tanya SaadÃ© Zeenny",55,France,Marseille,Shipping,Logistics,F,"SaadÃ© Zeenny",Tanya
+9800,"Finance & Investments","Melker Schorling & family",75,Sweden,Stockholm,Investments,"Finance & Investments",M,Schorling,Melker
+9700,Manufacturing,"Andrei Guriev & family",63,Russia,Moscow,Fertilizers,Manufacturing,M,"Guriev & family",Andrei
+9700,"Finance & Investments","Michael Kim",59,"South Korea",Seoul,"Private equity","Finance & Investments",M,Kim,Michael
+9700,Technology,"Lei Jun",53,China,Beijing,Smartphones,Technology,M,Lei,Jun
+9700,Manufacturing,"Friedhelm Loh",76,Germany,Haiger,Manufacturing,Manufacturing,M,Loh,Friedhelm
+9700,Healthcare,"Sun Piaoyang",64,China,Lianyungang,Pharmaceuticals,Healthcare,M,Sun,Piaoyang
+9600,Technology,"Rick Cohen & family",70,"United States",Keene,"Warehouse automation",Technology,M,Cohen,Rick
+9600,Energy,"Jin Baofang",70,China,Xingtai,"Solar panels",Energy,M,Jin,Baofang
+9600,Manufacturing,"Luo Liguo & family",67,China,Ningbo,Chemicals,Manufacturing,M,Luo,Liguo
+9600,"Food & Beverage","Marijke Mars",58,"United States","Los Angeles","Candy, pet food","Food & Beverage",F,Mars,Marijke
+9600,"Food & Beverage","Pamela Mars",62,"United States",Alexandria,"Candy, pet food","Food & Beverage",F,Mars,Pamela
+9600,"Food & Beverage","Valerie Mars",64,"United States","New York","Candy, pet food","Food & Beverage",F,Mars,Valerie
+9600,"Food & Beverage","Victoria Mars",66,"United States",Philadelphia,"Candy, pet food","Food & Beverage",F,Mars,Victoria
+9500,"Finance & Investments","Vincent BollorÃ© & family",71,France,Paris,Investments,"Finance & Investments",M,BollorÃ©,Vincent
+9500,Diversified,"Jim Pattison",94,Canada,Vancouver,Diversified,Diversified,M,Pattison,Jim
+9400,Healthcare,"Ernesto Bertarelli",57,Switzerland,Gstaad,"Biotech, investments",Healthcare,M,Bertarelli,Ernesto
+9400,Technology,"Wang Xing",44,China,Beijing,"Food delivery",Technology,M,Wang,Xing
+9300,Technology,"Brian Chesky",41,"United States","San Francisco",Airbnb,Technology,M,Chesky,Brian
+9300,Manufacturing,"James Dyson",75,"United Kingdom",Gloucestershire,Vacuums,Manufacturing,M,Dyson,James
+9200,Diversified,"Roman Abramovich & family",56,Russia,Moscow,"Steel, investments",Diversified,M,Abramovich,Roman
+9200,Diversified,"Antonia Ax:son Johnson & family",79,Sweden,Stockholm,Diversified,Diversified,F,"Ax:son Johnson",Antonia
+9200,Energy,"Daniel Kretinsky",47,"Czech Republic",Prague,"Energy, investments",Energy,M,Kretinsky,Daniel
+9200,"Media & Entertainment","John Malone",82,"United States",Elizabeth,"Cable television","Media & Entertainment",M,Malone,John
+9200,Technology,"Azim Premji",77,India,Bangalore,"Software services",Technology,M,Premji,Azim
+9200,"Finance & Investments","Charles Schwab",85,"United States",Woodside,"Discount brokerage","Finance & Investments",M,Schwab,Charles
+9200,"Fashion & Retail","Eric Smidt",63,"United States","Beverly Hills","Hardware stores","Fashion & Retail",M,Smidt,Eric
+9000,Technology,"David Cheriton",72,"United States","Palo Alto",Google,Technology,M,Cheriton,David
+9000,"Metals & Mining","Ivan Glasenberg",66,Switzerland,Ruschlikon,Mining,"Metals & Mining",M,Glasenberg,Ivan
+9000,"Real Estate","Alexander Otto",55,Germany,Hamburg,"Real estate","Real Estate",M,Otto,Alexander
+9000,"Food & Beverage","Anthony von Mandl",73,Canada,Vancouver,"Alcoholic beverages","Food & Beverage",M,"von Mandl",Anthony
+9000,Manufacturing,"Wang Liping & family",57,China,Changzhou,"Hydraulic machinery",Manufacturing,M,Wang,Liping
+8900,"Food & Beverage","Finn Rausing",68,"United Kingdom",London,Packaging,"Food & Beverage",M,Rausing,Finn
+8900,"Food & Beverage","Jorn Rausing",63,"United Kingdom",Surrey,Packaging,"Food & Beverage",M,Rausing,Jorn
+8900,"Food & Beverage","Kirsten Rausing",70,"United Kingdom",Newmarket,Packaging,"Food & Beverage",F,Rausing,Kirsten
+8800,"Fashion & Retail","Tatyana Bakalchuk",47,Russia,"Moscow region",Ecommerce,"Fashion & Retail",F,Bakalchuk,Tatyana
+8800,Technology,"John Doerr",71,"United States",Woodside,"Venture capital",Technology,M,Doerr,John
+8800,Technology,"Richard Liu",49,China,Beijing,E-commerce,Technology,M,Liu,Richard
+8800,Technology,"Dustin Moskovitz",38,"United States","San Francisco",Facebook,Technology,M,Moskovitz,Dustin
+8800,Technology,"Pierre Omidyar",55,"United States",Honolulu,"EBay, PayPal",Technology,M,Omidyar,Pierre
+8800,Energy,"Pei Zhenhua",64,China,Ningde,Batteries,Energy,M,Pei,Zhenhua
+8800,Energy,"Carrie Perrodo & family",72,"United Kingdom",London,Oil,Energy,F,Perrodo,Carrie
+8700,Manufacturing,"Chen Jianhua",52,China,Wujiang,Chemicals,Manufacturing,M,Chen,Jianhua
+8700,"Fashion & Retail","Michael Otto",79,Germany,Hamburg,"Retail, real estate","Fashion & Retail",M,Otto,Michael
+8600,"Finance & Investments","Leon Black",71,"United States","New York","Private equity","Finance & Investments",M,Black,Leon
+8600,"Finance & Investments","Graeme Hart",67,"New Zealand",Auckland,Investments,"Finance & Investments",M,Hart,Graeme
+8600,"Food & Beverage","Ravi Jaipuria",68,India,Delhi,"Soft drinks, fast food","Food & Beverage",M,Jaipuria,Ravi
+8600,Technology,"Hasso Plattner & family",79,Germany,Heidelberg,Software,Technology,M,Plattner,Hasso
+8600,"Food & Beverage","Carlos Alberto Sicupira & family",75,Switzerland,"St. Gallen",Beer,"Food & Beverage",M,Sicupira,"Carlos Alberto"
+8600,"Real Estate","Manuel Villar",73,Philippines,Manila,"Real estate","Real Estate",M,Villar,Manuel
+8600,Technology,"Andreas von Bechtolsheim & family",67,"United States","Palo Alto",Google,Technology,M,"von Bechtolsheim",Andreas
+8500,"Finance & Investments","Chase Coleman, III.",47,"United States","New York",Investments,"Finance & Investments",M,Coleman,Chase
+8500,"Fashion & Retail","Ann Walton Kroenke",74,"United States",Electra,Walmart,"Fashion & Retail",F,Kroenke,"Ann Walton"
+8500,Manufacturing,"Li Zhenguo & family",55,China,Xi'an,"Solar wafers and modules",Manufacturing,M,Li,Zhenguo
+8400,"Media & Entertainment","Jim Kennedy",75,"United States",Atlanta,"Media, automotive","Media & Entertainment",M,Kennedy,Jim
+8400,"Metals & Mining","Nicky Oppenheimer & family",77,"South Africa",Johannesburg,Diamonds,"Metals & Mining",M,Oppenheimer,Nicky
+8400,"Media & Entertainment","Blair Parry-Okeden",72,Australia,"New South Wales","Media, automotive","Media & Entertainment",F,Parry-Okeden,Blair
+8400,"Metals & Mining","Zheng Shuliang & family",77,China,Binzhou,"Aluminum products","Metals & Mining",F,Zheng,Shuliang
+8300,"Fashion & Retail","John Morris",75,"United States",Springfield,"Sporting goods retail","Fashion & Retail",M,Morris,John
+8200,Energy,"German Khan",61,Russia,Moscow,"Oil, banking, telecom",Energy,M,Khan,German
+8200,Diversified,"Abdulsamad Rabiu",62,Nigeria,Lagos,"Cement, sugar",Diversified,M,Rabiu,Abdulsamad
+8200,"Finance & Investments","George Roberts",79,"United States",Atherton,"Private equity","Finance & Investments",M,Roberts,George
+8200,"Real Estate","Kushal Pal Singh",91,India,Delhi,"Real estate","Real Estate",M,Singh,"Kushal Pal"
+8200,"Real Estate","Wang Jianlin",68,China,Beijing,"Real estate","Real Estate",M,Wang,Jianlin
+8200,"Real Estate","Yang Huiyan & family",41,China,Foshan,"Real estate","Real Estate",F,Yang,Huiyan
+8100,Diversified,"Laurent Dassault",69,France,Paris,Diversified,Diversified,M,Dassault,Laurent
+8100,Diversified,"Thierry Dassault",66,France,Paris,Diversified,Diversified,M,Dassault,Thierry
+8100,"Food & Beverage","Tilman Fertitta",65,"United States",Houston,"Houston Rockets, entertainment","Food & Beverage",M,Fertitta,Tilman
+8100,Diversified,"Marie-HÃ©lÃ¨ne Habert-Dassault",58,France,Paris,Diversified,Diversified,F,Habert-Dassault,Marie-HÃ©lÃ¨ne
+8100,"Gambling & Casinos","Karel Komarek",54,Switzerland,Verbier,"Oil and gas, IT, lotteries","Gambling & Casinos",M,Komarek,Karel
+8000,Technology,"Nathan Blecharczyk",39,"United States","San Francisco",Airbnb,Technology,M,Blecharczyk,Nathan
+8000,Energy,"Leonid Fedun",66,Russia,Moscow,Oil,Energy,M,Fedun,Leonid
+8000,"Fashion & Retail","Bernard Marcus",93,"United States",Atlanta,"Home Depot","Fashion & Retail",M,Marcus,Bernard
+8000,"Finance & Investments","Patrick Ryan",85,"United States",Winnetka,Insurance,"Finance & Investments",M,Ryan,Patrick
+8000,"Finance & Investments","Robert F. Smith",60,"United States",Austin,"Private equity","Finance & Investments",M,Smith,"Robert F."
+8000,"Metals & Mining","Pavel Tykac",58,"Czech Republic",Prague,"Coal mines","Metals & Mining",M,Tykac,Pavel
+7900,"Finance & Investments","Orlando Bravo",52,"United States","Miami Beach","Private equity","Finance & Investments",M,Bravo,Orlando
+7900,"Fashion & Retail","Ding Shizhong",52,China,Quanzhou,"Sports apparel","Fashion & Retail",M,Ding,Shizhong
+7900,"Fashion & Retail","Nancy Walton Laurie",71,"United States",Henderson,Walmart,"Fashion & Retail",F,Laurie,"Nancy Walton"
+7900,Technology,"Jay Y. Lee",54,"South Korea",Seoul,Samsung,Technology,M,Lee,"Jay Y."
+7900,"Finance & Investments","Ramzi Musallam",54,"United States","New York","Private equity","Finance & Investments",M,Musallam,Ramzi
+7900,"Finance & Investments","David Shaw",72,"United States","New York","Hedge funds","Finance & Investments",M,Shaw,David
+7900,"Metals & Mining","Andrei Skoch & family",57,Russia,Moscow,"Metals and mining","Metals & Mining",M,"Skoch & family",Andrei
+7900,Diversified,"Georg Stumpf",50,Austria,Vienna,"Real estate, construction",Diversified,M,Stumpf,Georg
+7800,Telecom,"Rocco Commisso",73,"United States","Saddle River",Telecom,Telecom,M,Commisso,Rocco
+7800,Manufacturing,"Li Shuirong & family",66,China,Hangzhou,Petrochemicals,Manufacturing,M,Li,Shuirong
+7800,Technology,"Qi Shi & family",53,China,Shanghai,"Financial information",Technology,M,Qi,Shi
+7800,Manufacturing,"Yao Liangsong",58,China,Guangzhou,Furniture,Manufacturing,M,Yao,Liangsong
+7700,"Food & Beverage","Jean-Michel Besnier",55,France,Laval,Cheese,"Food & Beverage",M,Besnier,Jean-Michel
+7700,"Food & Beverage","Marie Besnier Beauvalot",42,France,Laval,Cheese,"Food & Beverage",F,"Besnier Beauvalot",Marie
+7700,"Media & Entertainment","David Geffen",80,"United States","Beverly Hills","Movies, record labels","Media & Entertainment",M,Geffen,David
+7700,Technology,"Robin Li",54,China,Beijing,"Internet search",Technology,M,Li,Robin
+7700,Service,"Liu Yonghao & family",71,China,Chengdu,Agribusiness,Service,M,Liu,Yonghao
+7700,Technology,"Henry Samueli",68,"United States","Newport Beach",Semiconductors,Technology,M,Samueli,Henry
+7700,Healthcare,"Reinhold Schmieding",68,"United States",Naples,"Medical devices",Healthcare,M,Schmieding,Reinhold
+7700,"Real Estate","Ivar Tollefsen",61,Norway,Oslo,"Real estate","Real Estate",M,Tollefsen,Ivar
+7600,Energy,"Cao Renxian",54,China,Hefei,"Photovoltaic equipment",Energy,M,Cao,Renxian
+7600,Healthcare,"Hasmukh Chudgar & family",89,India,Ahmedabad,Pharmaceuticals,Healthcare,M,Chudgar,Hasmukh
+7600,Manufacturing,"Andrew Currie",67,"United Kingdom",London,Chemicals,Manufacturing,M,Currie,Andrew
+7600,Technology,"Joe Gebbia",41,"United States",Austin,Airbnb,Technology,M,Gebbia,Joe
+7600,"Real Estate","Philip Ng",64,Singapore,Singapore,"Real Estate","Real Estate",M,Ng,Philip
+7600,Manufacturing,"John Reece",66,"United Kingdom",London,Chemicals,Manufacturing,M,Reece,John
+7600,"Real Estate","Leonard Stern",85,"United States","New York","Real estate","Real Estate",M,Stern,Leonard
+7600,Healthcare,"Zhong Huijuan",62,China,Shanghai,Pharmaceuticals,Healthcare,F,Zhong,Huijuan
+7500,Sports,"Arthur Blank",80,"United States",Atlanta,"Home Depot",Sports,M,Blank,Arthur
+7500,"Fashion & Retail","Charles Butt",85,"United States","San Antonio",Supermarkets,"Fashion & Retail",M,Butt,Charles
+7500,"Fashion & Retail","Ding Shijia",59,China,Quanzhou,"Sports apparel","Fashion & Retail",M,Ding,Shijia
+7500,"Finance & Investments","Paul Tudor Jones, II.",68,"United States","Palm Beach","Hedge funds","Finance & Investments",M,Jones,"Paul Tudor"
+7500,"Finance & Investments","Henry Kravis",79,"United States","New York","Private equity","Finance & Investments",M,Kravis,Henry
+7500,"Food & Beverage","Zhang Yong",52,Singapore,Singapore,Restaurants,"Food & Beverage",M,Zhang,Yong
+7400,Technology,"James Goodnight",80,"United States",Cary,Software,Technology,M,Goodnight,James
+7400,Manufacturing,"Sri Prakash Lohia",70,"United Kingdom",London,Petrochemicals,Manufacturing,M,Lohia,"Sri Prakash"
+7400,"Fashion & Retail","Ma Jianrong",59,China,Ningbo,"Textiles, apparel","Fashion & Retail",M,Ma,Jianrong
+7400,"Real Estate","Robert Ng",71,Singapore,Singapore,"Real estate","Real Estate",M,Ng,Robert
+7400,Manufacturing,"Steven Rales",72,"United States","Santa Barbara","Manufacturing, investments",Manufacturing,M,Rales,Steven
+7400,"Construction & Engineering","Nassef Sawiris",62,Egypt,Cairo,"Construction, investments","Construction & Engineering",M,Sawiris,Nassef
+7400,"Food & Beverage","Harry Stine",81,"United States",Adel,Agriculture,"Food & Beverage",M,Stine,Harry
+7300,Manufacturing,"Benu Gopal Bangur",91,India,Kolkata,Cement,Manufacturing,M,Bangur,"Benu Gopal"
+7300,"Metals & Mining","Iskander Makhmudov",59,Russia,Moscow,"Mining, metals, machinery","Metals & Mining",M,Makhmudov,Iskander
+7300,"Fashion & Retail","Anders Holch Povlsen",50,Denmark,Aarhus,"Fashion retail","Fashion & Retail",M,Povlsen,"Anders Holch"
+7300,Logistics,"Enrique Razon Jr.",63,Philippines,Manila,Ports,Logistics,M,"Razon Jr.",Enrique
+7300,Technology,"Wang Laichun",55,China,Shenzhen,"Electronics components",Technology,F,Wang,Laichun
+7200,"Finance & Investments","Arthur Dantchik",65,"United States",Gladwyne,"Trading, investments","Finance & Investments",M,Dantchik,Arthur
+7200,"Real Estate","Jeff Greene",68,"United States","Palm Beach","Real estate, investments","Real Estate",M,Greene,Jeff
+7200,"Finance & Investments","Don Hankey",79,"United States",Malibu,"Auto loans","Finance & Investments",M,Hankey,Don
+7200,Energy,"Richard Kinder",78,"United States",Houston,Pipelines,Energy,M,Kinder,Richard
+7200,"Finance & Investments","Guillaume Pousaz",41,"United Arab Emirates",Dubai,Fintech,"Finance & Investments",M,Pousaz,Guillaume
+7200,"Fashion & Retail","Takahisa Takahara",61,Japan,Tokyo,"Personal care goods","Fashion & Retail",M,Takahara,Takahisa
+7200,"Food & Beverage","Zong Qinghou",77,China,Hangzhou,Beverages,"Food & Beverage",M,Zong,Qinghou
+7100,Technology,"Judy Faulkner",79,"United States",Madison,"Healthcare software",Technology,F,Faulkner,Judy
+7100,"Gambling & Casinos","Johann Graf",76,Austria,Vienna,Gambling,"Gambling & Casinos",M,Graf,Johann
+7100,Service,"Tamara Gustavson",61,"United States",Lexington,"Self storage",Service,F,Gustavson,Tamara
+7100,Manufacturing,"Liang Wengen",66,China,Changsha,"Construction equipment",Manufacturing,M,Liang,Wengen
+7100,Healthcare,"Frederik Paulsen",72,Switzerland,Lausanne,"Health care",Healthcare,M,Paulsen,Frederik
+7100,"Finance & Investments","Wee Cho Yaw",94,Singapore,Singapore,Banking,"Finance & Investments",M,Wee,"Cho Yaw"
+7100,Manufacturing,"Zhang Hejun",71,China,Ningbo,Electronics,Manufacturing,M,Zhang,Hejun
+7000,Technology,"Marc Benioff",58,"United States","San Francisco","Business software",Technology,M,Benioff,Marc
+7000,"Media & Entertainment","Dmitri Bukhman",37,"United Kingdom",London,"Online games","Media & Entertainment",M,Bukhman,Dmitri
+7000,"Media & Entertainment","Igor Bukhman",41,"United Kingdom",London,"Online games","Media & Entertainment",M,Bukhman,Igor
+7000,Technology,"Jack Dangermond",77,"United States",Redlands,"Mapping software",Technology,M,Dangermond,Jack
+7000,Manufacturing,"Ashwin Dani & family",80,India,Mumbai,Paints,Manufacturing,M,Dani,Ashwin
+7000,"Fashion & Retail","Ralph Lauren",83,"United States","New York",Apparel,"Fashion & Retail",M,Lauren,Ralph
+7000,Diversified,"Rohiqa Cyrus Mistry",55,India,Mumbai,Diversified,Diversified,F,Mistry,"Rohiqa Cyrus"
+7000,Diversified,"Shapoor Mistry",58,India,Mumbai,Diversified,Diversified,M,Mistry,Shapoor
+7000,"Food & Beverage","J. Christopher Reyes",69,"United States","Hobe Sound","Food distribution","Food & Beverage",M,Reyes,"J. Christopher"
+7000,"Food & Beverage","Jude Reyes",67,"United States","Palm Beach","Food distribution","Food & Beverage",M,Reyes,Jude
+7000,"Food & Beverage","Don Vultaggio & family",71,"United States","Port Washington",Beverages,"Food & Beverage",M,Vultaggio,Don
+6900,Diversified,"Edythe Broad & family",87,"United States","Los Angeles","Homebuilding, insurance",Diversified,F,Broad,Edythe
+6900,"Food & Beverage","Pauline MacMillan Keinath",89,"United States","St. Louis",Cargill,"Food & Beverage",F,Keinath,"Pauline MacMillan"
+6900,"Finance & Investments","Philippe Laffont",55,"United States","New York","Hedge fund","Finance & Investments",M,Laffont,Philippe
+6900,Technology,"Liu Jincheng & family",58,China,Huizhou,"Lithium batteries",Technology,M,Liu,Jincheng
+6900,"Real Estate","Igor Olenicoff",80,"United States","Lighthouse Point","Real estate","Real Estate",M,Olenicoff,Igor
+6900,"Fashion & Retail","Sandra Ortega Mera",54,Spain,"La Coruna",Zara,"Fashion & Retail",F,"Ortega Mera",Sandra
+6900,Healthcare,"Ronda Stryker",68,"United States",Portage,"Medical equipment",Healthcare,F,Stryker,Ronda
+6800,Energy,"Dannine Avara",59,"United States",Houston,Pipelines,Energy,F,Avara,Dannine
+6800,Diversified,"Silvio Berlusconi & family",86,Italy,Milan,Media,Diversified,M,Berlusconi,Silvio
+6800,"Gambling & Casinos","Denise Coates",55,"United Kingdom",Stoke-on-Trent,"Online gambling","Gambling & Casinos",F,Coates,Denise
+6800,Energy,"Scott Duncan",40,"United States",Houston,Pipelines,Energy,M,Duncan,Scott
+6800,Energy,"Milane Frantz",53,"United States",Houston,Pipelines,Energy,F,Frantz,Milane
+6800,"Finance & Investments","Edward Johnson, IV.",58,"United States",Boston,Fidelity,"Finance & Investments",M,Johnson,Edward
+6800,"Finance & Investments","Yuri Milner",61,"United States","Los Altos","Tech investments","Finance & Investments",M,Milner,Yuri
+6800,Technology,"Gordon Moore",94,"United States",Woodside,Intel,Technology,M,Moore,Gordon
+6800,"Finance & Investments","John Overdeck",53,"United States",Millburn,"Hedge funds","Finance & Investments",M,Overdeck,John
+6800,"Finance & Investments","David Siegel",61,"United States",Scarsdale,"Hedge funds","Finance & Investments",M,Siegel,David
+6800,Diversified,"Viktor Vekselberg",65,Russia,Moscow,"Metals, investments",Diversified,M,Vekselberg,Viktor
+6800,Technology,"Wang Laisheng",58,China,Shenzhen,"Electronics components",Technology,M,Wang,Laisheng
+6800,Energy,"Randa Duncan Williams",61,"United States",Houston,Pipelines,Energy,F,Williams,"Randa Duncan"
+6700,"Finance & Investments","Ken Fisher",72,"United States",Dallas,"Money management","Finance & Investments",M,Fisher,Ken
+6700,"Finance & Investments","Christopher Hohn",56,"United Kingdom",London,"Hedge funds","Finance & Investments",M,Hohn,Christopher
+6700,Manufacturing,"Kjeld Kirk Kristiansen",75,Denmark,Billund,Lego,Manufacturing,M,Kristiansen,"Kjeld Kirk"
+6700,Manufacturing,"Sofie Kirk Kristiansen",47,Denmark,Billund,Lego,Manufacturing,F,Kristiansen,"Sofie Kirk"
+6700,Manufacturing,"Thomas Kirk Kristiansen",44,Denmark,Billund,Lego,Manufacturing,M,Kristiansen,"Thomas Kirk"
+6700,Healthcare,"Massimiliana Landini Aleotti & family",80,Italy,Fiesole,Pharmaceuticals,Healthcare,F,"Landini Aleotti",Massimiliana
+6700,Automotive,"Li Ping",55,China,Ningde,Batteries,Automotive,M,Li,Ping
+6700,Manufacturing,"Lin Jianhua",60,China,Hangzhou,"Solar panel components",Manufacturing,M,Lin,Jianhua
+6700,Manufacturing,"Magdalena Martullo-Blocher",54,Switzerland,Feldmeilen,Chemicals,Manufacturing,F,Martullo-Blocher,Magdalena
+6700,Telecom,"Xavier Niel",55,France,Paris,"Internet, telecom",Telecom,M,Niel,Xavier
+6700,Energy,"Terrence Pegula",72,"United States","Boca Raton","Natural gas",Energy,M,Pegula,Terrence
+6700,"Real Estate","Edward Roski, Jr.",84,"United States","Los Angeles","Real estate","Real Estate",M,Roski,Edward
+6700,"Real Estate","John A. Sobrato & family",83,"United States",Atherton,"Real estate","Real Estate",M,Sobrato,"John A."
+6700,"Finance & Investments","George Soros",92,"United States",Katonah,"Hedge funds","Finance & Investments",M,Soros,George
+6700,Technology,"David Sun",71,"United States",Irvine,"Computer hardware",Technology,M,Sun,David
+6700,Manufacturing,"Agnete Kirk Thinggaard",39,Denmark,Billund,Lego,Manufacturing,F,Thinggaard,"Agnete Kirk"
+6700,Technology,"John Tu",81,"United States","Rolling Hills","Computer hardware",Technology,M,Tu,John
+6700,"Food & Beverage","Xu Shihui",65,China,Quanzhou,"Snacks, beverages","Food & Beverage",M,Xu,Shihui
+6600,Manufacturing,"Rahel Blocher",47,Switzerland,"Wilen bei Wollerau",Chemicals,Manufacturing,F,Blocher,Rahel
+6600,"Food & Beverage","Bubba Cathy",68,"United States",Atlanta,Chick-fil-A,"Food & Beverage",M,Cathy,Bubba
+6600,"Food & Beverage","Dan Cathy",70,"United States",Atlanta,Chick-fil-A,"Food & Beverage",M,Cathy,Dan
+6600,"Food & Beverage","Trudy Cathy White",67,"United States",Hampton,Chick-fil-A,"Food & Beverage",F,"Cathy White",Trudy
+6600,"Finance & Investments","Bruce Kovner",78,"United States","New York","Hedge funds","Finance & Investments",M,Kovner,Bruce
+6600,Technology,"Henry Nicholas, III.",63,"United States","Newport Coast",Semiconductors,Technology,M,Nicholas,Henry
+6600,"Finance & Investments","Nadia Thiele",47,Germany,Munich,Investments,"Finance & Investments",F,Thiele,Nadia
+6500,"Finance & Investments","David Bonderman",80,"United States","Fort Worth","Private equity","Finance & Investments",M,Bonderman,David
+6500,Technology,"Melinda French Gates",58,"United States",Medina,Microsoft,Technology,F,"French Gates",Melinda
+6500,"Real Estate","Annette Lerner & family",93,"United States","Chevy Chase","Real estate","Real Estate",F,Lerner,Annette
+6500,"Real Estate","David Reuben",84,"United Kingdom",London,"Investments, real estate","Real Estate",M,Reuben,David
+6500,"Real Estate","Radovan Vitek",51,Switzerland,"Crans Montana","Real estate","Real Estate",M,Vitek,Radovan
+6400,"Finance & Investments","Carl Bennet",71,Sweden,Gothenberg,Investments,"Finance & Investments",M,Bennet,Carl
+6400,Sports,"Stephen Bisciotti",62,"United States","Hobe Sound","Staffing, Baltimore Ravens",Sports,M,Bisciotti,Stephen
+6400,"Finance & Investments","Stanley Druckenmiller",69,"United States","New York","Hedge funds","Finance & Investments",M,Druckenmiller,Stanley
+6400,Healthcare,"Jian Jun",59,China,Beijing,"Biomedical products",Healthcare,F,Jian,Jun
+6400,Energy,"Alexei Kuzmichev",60,France,Paris,"Oil, banking, telecom",Energy,M,Kuzmichev,Alexei
+6400,"Finance & Investments","Luis Carlos Sarmiento",90,Colombia,Bogota,Banking,"Finance & Investments",M,Sarmiento,"Luis Carlos"
+6400,Logistics,"Dennis Washington",88,"United States",Missoula,"Construction, mining",Logistics,M,Washington,Dennis
+6300,"Construction & Engineering","Anthony Bamford & family",77,"United Kingdom",Gloucestershire,"Construction equipment","Construction & Engineering",M,Bamford,Anthony
+6300,Energy,"Gao Jifan & family",58,China,Changzhou,"Solar equipment",Energy,M,Gao,Jifan
+6300,"Finance & Investments","John Grayken",66,"United Kingdom",London,"Private equity","Finance & Investments",M,Grayken,John
+6300,Healthcare,"Alain Merieux & family",85,France,Lyon,Pharmaceuticals,Healthcare,M,Merieux,Alain
+6300,Energy,"Wang Yusuo & family",59,China,Langfang,"Natural gas distribution",Energy,M,Wang,Yusuo
+6300,Manufacturing,"Stef Wertheimer & family",96,Israel,"Tel Aviv","Metalworking tools",Manufacturing,M,Wertheimer,Stef
+6200,"Food & Beverage","Maria Asuncion Aramburuzabala & family",59,Mexico,"Mexico City","Beer, investments","Food & Beverage",F,Aramburuzabala,"Maria Asuncion"
+6200,Diversified,"Gustaf Douglas",85,Sweden,Stockholm,Investments,Diversified,M,Douglas,Gustaf
+6200,Service,"Frits Goldschmeding",89,Netherlands,Amsterdam,"Temp agency",Service,M,Goldschmeding,Frits
+6200,"Food & Beverage","Lin Muqin & family",59,China,Shenzhen,Beverages,"Food & Beverage",M,Lin,Muqin
+6200,Manufacturing,"Ruan Liping",59,China,Ningbo,"Power strips",Manufacturing,M,Ruan,Liping
+6200,Manufacturing,"Ruan Xueping",51,China,Ningbo,"Power strip",Manufacturing,M,Ruan,Xueping
+6200,"Finance & Investments","Michal Solowow",60,Poland,Kielce,Investments,"Finance & Investments",M,Solowow,Michal
+6100,Diversified,"Mike Adenuga",69,Nigeria,Lagos,"Telecom, oil",Diversified,M,Adenuga,Mike
+6100,"Finance & Investments","Tom Gores",58,"United States","Beverly Hills","Private equity","Finance & Investments",M,Gores,Tom
+6100,"Fashion & Retail","Michael Herz",79,Germany,Hamburg,Coffee,"Fashion & Retail",M,Herz,Michael
+6100,"Fashion & Retail","Wolfgang Herz",72,Germany,Hamburg,Coffee,"Fashion & Retail",M,Herz,Wolfgang
+6000,"Metals & Mining","Alexander Abramov",64,Russia,Moscow,"Steel, mining","Metals & Mining",M,Abramov,Alexander
+6000,"Real Estate","Neil Bluhm",85,"United States",Chicago,"Real estate","Real Estate",M,Bluhm,Neil
+6000,"Fashion & Retail","Alain Bouchard",74,Canada,Montreal,"Convinience stores","Fashion & Retail",M,Bouchard,Alain
+6000,Technology,"Jay Chaudhry",63,"United States",Reno,"Security software",Technology,M,Chaudhry,Jay
+6000,"Fashion & Retail","Gopikishan Damani",65,India,Mumbai,"Retail, investments","Fashion & Retail",M,Damani,Gopikishan
+6000,Diversified,"Sumet Jiaravanon",88,Thailand,Bangkok,Diversified,Diversified,M,Jiaravanon,Sumet
+6000,"Finance & Investments","Frank Lowy",92,Israel,"Tel Aviv",Investments,"Finance & Investments",M,Lowy,Frank
+6000,"Finance & Investments","Michael Milken",76,"United States","Los Angeles",Investments,"Finance & Investments",M,Milken,Michael
+6000,Technology,"David Steward",71,"United States","St. Louis","IT provider",Technology,M,Steward,David
+6000,"Fashion & Retail","Les Wexner & family",85,"United States","New Albany",Retail,"Fashion & Retail",M,Wexner,Les
+5900,"Real Estate","Cai Kui",60,China,Chengdu,"Real estate","Real Estate",M,Cai,Kui
+5900,Diversified,"Jaran Chiaravanont",93,Thailand,Bangkok,Diversified,Diversified,M,Chiaravanont,Jaran
+5900,"Finance & Investments","Andreas Halvorsen",61,"United States",Darien,"Hedge funds","Finance & Investments",M,Halvorsen,Andreas
+5900,"Finance & Investments","Antony Ressler",62,"United States","Los Angeles",Finance,"Finance & Investments",M,Ressler,Antony
+5900,"Food & Beverage","Tsai Eng-meng",66,China,Shanghai,"Food, beverages","Food & Beverage",M,Tsai,Eng-meng
+5800,"Finance & Investments","Josh Harris",58,"United States",Miami,"Private equity","Finance & Investments",M,Harris,Josh
+5800,Healthcare,"Niels Peter Louis-Hansen",75,Denmark,Humlebaek,"Medical devices",Healthcare,M,Louis-Hansen,"Niels Peter"
+5800,Healthcare,"Patrick Soon-Shiong",70,"United States","Los Angeles",Pharmaceuticals,Healthcare,M,Soon-Shiong,Patrick
+5700,"Metals & Mining","Rinat Akhmetov",56,Ukraine,Donetsk,"Steel, coal","Metals & Mining",M,Akhmetov,Rinat
+5700,Healthcare,"John Brown",88,"United States",Atlanta,"Medical equipment",Healthcare,M,Brown,John
+5700,Energy,"Arthur Irving",93,Canada,"Saint John",Oil,Energy,M,Irving,Arthur
+5700,"Real Estate","Fredrik Lundberg",71,Sweden,Stockholm,"Real estate, investments","Real Estate",M,Lundberg,Fredrik
+5700,"Construction & Engineering","Thomas Schmidheiny",77,Switzerland,Jona,Cement,"Construction & Engineering",M,Schmidheiny,Thomas
+5700,"Finance & Investments","Daniel Ziff",51,"United States","New York",Investments,"Finance & Investments",M,Ziff,Daniel
+5700,"Finance & Investments","Dirk Ziff",59,"United States","North Palm Beach",Investments,"Finance & Investments",M,Ziff,Dirk
+5700,"Finance & Investments","Robert Ziff",56,"United States","New York",Investments,"Finance & Investments",M,Ziff,Robert
+5600,Energy,"Ray Lee Hunt",79,"United States",Dallas,"Oil, real estate",Energy,M,Hunt,"Ray Lee"
+5600,Logistics,"Lai Meisong",52,China,Shanghai,"Package delivery",Logistics,M,Lai,Meisong
+5600,Automotive,"Vikram Lal & family",81,India,Delhi,Motorcycles,Automotive,M,Lal,Vikram
+5600,"Finance & Investments","Ken Langone",87,"United States","Sands Point",Investments,"Finance & Investments",M,Langone,Ken
+5600,Healthcare,"Li Ge",56,China,Shanghai,"Pharmaceutical ingredients",Healthcare,M,Li,Ge
+5600,"Finance & Investments","Karen Pritzker",65,"United States",Branford,"Hotels, investments","Finance & Investments",F,Pritzker,Karen
+5600,Service,"Robert Rowling",69,"United States",Dallas,"Hotels, investments",Service,M,Rowling,Robert
+5600,"Gambling & Casinos","Teddy Sagi",51,Israel,"Tel Aviv","Gambling software","Gambling & Casinos",M,Sagi,Teddy
+5600,Healthcare,"Seo Jung-jin",65,"South Korea",Seoul,Biotech,Healthcare,M,Seo,Jung-jin
+5600,Automotive,"Wu Jianshu",59,China,Ningbo,"Auto parts",Automotive,M,Wu,Jianshu
+5500,Service,"Micky Arison",73,"United States","Bal Harbour","Carnival Cruises",Service,M,Arison,Micky
+5500,"Media & Entertainment","James Chambers",65,"United States",Palisades,"Media, automotive","Media & Entertainment",M,Chambers,James
+5500,Technology,"John Collison",32,"United States","San Francisco","Payments software",Technology,M,Collison,John
+5500,Technology,"Patrick Collison",34,"United States","San Francisco","Payment software",Technology,M,Collison,Patrick
+5500,Manufacturing,"Archie Aldis Emmerson & family",93,"United States",Redding,"Timberland, lumber mills",Manufacturing,M,Emmerson,"Archie Aldis"
+5500,Automotive,"Piero Ferrari",77,Italy,Modena,Automobiles,Automotive,M,Ferrari,Piero
+5500,Automotive,"Dan Friedkin",58,"United States",Houston,"Toyota dealerships",Automotive,M,Friedkin,Dan
+5500,Diversified,"James Irving",95,Canada,"Saint John",Diversified,Diversified,M,Irving,James
+5500,Manufacturing,"Jiang Weiping & family",68,China,Chengdu,Chemicals,Manufacturing,M,Jiang,Weiping
+5500,Healthcare,"Wolfgang Marguerre & family",81,Germany,Heidelberg,Pharmaceuticals,Healthcare,M,Marguerre,Wolfgang
+5500,"Finance & Investments","Ludwig Merckle",58,Germany,Ulm,Pharmaceuticals,"Finance & Investments",M,Merckle,Ludwig
+5500,Manufacturing,"Mitchell Rales",66,"United States",Potomac,"Manufacturing, investments",Manufacturing,M,Rales,Mitchell
+5500,"Media & Entertainment","Katharine Rayner",78,"United States","East Hampton","Media, automotive","Media & Entertainment",F,Rayner,Katharine
+5500,"Finance & Investments","Paul Singer",78,"United States","New York","Hedge funds","Finance & Investments",M,Singer,Paul
+5500,Healthcare,"Sergio Stevanato & family",80,Italy,Venice,"Medical packaging",Healthcare,M,Stevanato,Sergio
+5500,"Media & Entertainment","Margaretta Taylor",80,"United States",Southampton,"Media, automotive","Media & Entertainment",F,Taylor,Margaretta
+5500,Technology,"Richard White",68,Australia,Sydney,Software,Technology,M,White,Richard
+5500,Diversified,"Zhao Yan",56,China,Beijing,Biotech,Diversified,F,Zhao,Yan
+5400,"Fashion & Retail","Patrizio Bertelli",77,Italy,Milan,"Luxury goods","Fashion & Retail",M,Bertelli,Patrizio
+5400,Manufacturing,"Mahendra Choksi & family",81,India,Mumbai,Paints,Manufacturing,M,Choksi,Mahendra
+5400,"Finance & Investments","Mat Ishbia",43,"United States","Bloomfield Hills","Mortgage lender","Finance & Investments",M,Ishbia,Mat
+5400,Technology,"Leo Koguan",68,Singapore,Singapore,"IT provider",Technology,M,Koguan,Leo
+5400,Diversified,"Miao Hangen",58,China,Suzhou,"Textiles, petrochemicals",Diversified,M,Miao,Hangen
+5400,Manufacturing,"Michael Pieper",77,Switzerland,Lucerne,"Kitchen appliances",Manufacturing,M,Pieper,Michael
+5400,"Fashion & Retail","Miuccia Prada",73,Italy,Milan,"Luxury goods","Fashion & Retail",F,Prada,Miuccia
+5400,"Fashion & Retail","Wolfgang Reimann",70,Germany,Passau,"Consumer goods","Fashion & Retail",M,Reimann,Wolfgang
+5400,"Fashion & Retail","Matthias Reimann-Andersen",58,Germany,Munich,"Consumer goods","Fashion & Retail",M,Reimann-Andersen,Matthias
+5400,"Fashion & Retail","Stefan Reimann-Andersen",59,Austria,Vienna,"Consumer goods","Fashion & Retail",M,Reimann-Andersen,Stefan
+5400,"Fashion & Retail","Renate Reimann-Haas",71,Austria,Vienna,"Consumer goods","Fashion & Retail",F,Reimann-Haas,Renate
+5300,"Finance & Investments","Todd Boehly",49,"United States",Darien,Finance,"Finance & Investments",M,Boehly,Todd
+5300,"Real Estate","Rick Caruso",64,"United States","Los Angeles","Real estate","Real Estate",M,Caruso,Rick
+5300,Manufacturing,"Ibrahim Erdemoglu",60,Turkey,Istanbul,Carpet,Manufacturing,M,Erdemoglu,Ibrahim
+5300,"Finance & Investments","Elizabeth Johnson",59,"United States",Boston,Fidelity,"Finance & Investments",F,Johnson,Elizabeth
+5300,"Finance & Investments","Douglas Leone",65,"United States",Atherton,"Venture capital","Finance & Investments",M,Leone,Douglas
+5300,Diversified,"Prajogo Pangestu",78,Indonesia,Jakarta,Petrochemicals,Diversified,M,Pangestu,Prajogo
+5300,"Finance & Investments","Thomas Pritzker",72,"United States",Chicago,"Hotels, investments","Finance & Investments",M,Pritzker,Thomas
+5300,"Food & Beverage","Lynda Resnick",80,"United States","Beverly Hills",Agriculture,"Food & Beverage",F,Resnick,Lynda
+5300,"Food & Beverage","Stewart Resnick",86,"United States","Beverly Hills",Agriculture,"Food & Beverage",M,Resnick,Stewart
+5300,Service,"Gary Rollins",78,"United States",Atlanta,"Pest control",Service,M,Rollins,Gary
+5300,"Finance & Investments","Mark Walter",62,"United States",Chicago,"Finance, asset management","Finance & Investments",M,Walter,Mark
+5300,Manufacturing,"Ronald Wanek",81,"United States","Saint Petersburg",Furniture,Manufacturing,M,Wanek,Ronald
+5300,"Food & Beverage","Erich Wesjohann & family",77,Germany,Visbek,"Poultry genetics","Food & Beverage",M,Wesjohann,Erich
+5300,"Fashion & Retail","M.A. Yusuff Ali",67,"United Arab Emirates","Abu Dhabi",Retail,"Fashion & Retail",M,"Yusuff Ali",M.A.
